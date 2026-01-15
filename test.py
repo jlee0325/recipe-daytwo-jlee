@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # %%
-df = pd.read_csv("digi.csv")   # assumes digi.csv is in the same folder as your workspace root
+df = pd.read_csv("digi.csv")
 df.head()
 
 # %%
